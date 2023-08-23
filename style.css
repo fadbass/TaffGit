@@ -1,0 +1,20 @@
+h1{  
+    color:palevioletred ;
+    font-weight: bold;  
+    font-size: 5em;
+    text-align: center;
+    padding: 100px; 
+    background: linear-gradient(to right,  #00F260,#0575E6);
+
+}
+
+.red{ 
+    color:red;
+     font-family: 'Lobster Two', cursive;
+      }
+
+      table{
+        border-collapse: collapse;
+  }
+  td, th{
+    border: 2px solid black;  }
